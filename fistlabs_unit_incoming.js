@@ -1,7 +1,7 @@
 'use strict';
 
 var Busboy = /** @type Busboy */ require('busboy');
-var FistError = /** @type FistError */ require('fist/core/fist-error');
+var FistError = /** @type FistError */ require('fist/core/errors').FistError;
 
 var _ = require('lodash-node');
 var errors = {
