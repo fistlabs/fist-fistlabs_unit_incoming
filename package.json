@@ -25,10 +25,10 @@
     "gulp-util": "3.0.2",
     "through2": "0.6.3",
     "gulp-jscs": "1.4.0",
-    "fist": "~3"
+    "fist": "~3.5"
   },
   "peerDependencies": {
-    "fist": "~3"
+    "fist": "~3.5"
   },
   "license": "MIT",
   "main": "fistlabs_unit_incoming",
